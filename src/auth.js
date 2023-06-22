@@ -1,0 +1,3 @@
+const URL = "http://localhost:1337/api";
+const TOKEN  = "c422d8c67aa4b6bb0717f9e1dfd731d148326402f02dfa057f48baf20394a13a72e12ca3f2445c315234d99466cca9590b8d8f0abbd418ff44a34736d5a5e3006dd80e742f3d2f81321adda3b17fa4ef1aaf089bba5fb099469cce83dfc0b08f919afb615f1fb2c87b0a1ca73ea8905a3d4b2ed47c85bb65eab87e2d0073b18e"
+export {URL, TOKEN};
